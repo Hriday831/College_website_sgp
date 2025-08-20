@@ -38,7 +38,7 @@ Siliguri Government Polytechnic, located in Dabgram, Siliguri, West Bengal, Indi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/paullyy8/SGP---College-Website.git
+    git clone https://github.com/Hriday831/College_website_sgp.git
     ```
 2. Navigate to the project directory:
     ```bash
